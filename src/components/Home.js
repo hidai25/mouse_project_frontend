@@ -71,7 +71,7 @@ class Home extends Component {
       <HomePageElm>
 
       <Typist className="MyTypist">
-        My name is <span className = "name">Hidai Bar-Mor</span>. I am a financial markets professional and a developer.
+        This is a  <span className = "name">Human-computer interaction project</span>. A real-time Hand Gesture Recognition system.
          <Typist.Delay ms={5000} />
       </Typist>
       <div id="arrowAnim">
