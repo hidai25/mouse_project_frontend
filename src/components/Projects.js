@@ -33,30 +33,15 @@ function Projects(props) {
 
 
     <Navbar fixed="top" />
-      <h1>Projects</h1>
+      <h1>Division of Work</h1>
   <div class="container">
   </div>
       <footer class="contact-footer">
       <div class="social">
-
-      <a href="https://www.facebook.com/hidai.barmor" className="facebook social">
-        <FontAwesomeIcon icon={faFacebook} size="2x" />
-      </a>
-      <a href="https://www.youtube.com/"  className="github social">
-      <FontAwesomeIcon icon={faGithub} size="2x" />
-      </a>
-
-      <a href="https://twitter.com/hidai_barmor" className="twitter social">
-      <FontAwesomeIcon icon={faTwitter} size="2x" />
-      </a>
-
-      <a href="https://www.instagram.com/" className="instagram social">
-      <FontAwesomeIcon icon={faInstagram} size="2x" />
-      </a>
       </div>
       <br/>
       <span class="credit">
-      <span class="Copyright">©2020 Copyright: </span> <span class="footername">HIDAI BAR-MOR</span>
+      <span class="Copyright">©2020 Copyright</span>
       </span>
       </footer>
 </GridWrapper>

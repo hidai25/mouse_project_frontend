@@ -43,143 +43,33 @@ class Home extends Component {
           <br/>
 
 <div class="plate">
-  <p class="script"><span>My Skills</span></p></div>
+  <p class="script"><span>Machine Learning</span></p></div>
 <br/>
 <br/>
 <br/>
           <div class="row">
             <div class="col-sm-6">
 
-              <div class="skillstxt">I am a finance professional and experienced software developer. I give full stack web development solution as well as Data science and deep learning ones in the fields of finance and others.</div>
+              <div class="skillstxt"></div>
             </div>
             <div class="col-sm-6">
 
 
             <div class="skills">
 
-                    <Progress multi>
-                            <Progress bar value="30">JAVASCRIPT</Progress>
-                            <div class="progress-bar">
-                               <span class="progress-value" >75%</span>
-                                    </div>
-                          </Progress><br/>
-
-
-                    <Progress multi>
-                            <Progress bar value="30">HTML</Progress>
-                            <div class="progress-bar">
-                               <span class="progress-value yellow" >85%</span>
-                                    </div>
-                          </Progress><br/>
-
-
-                          <Progress multi>
-                                  <Progress bar value="30">CSS</Progress>
-                                  <div class="progress-bar">
-                                     <span class="progress-value green" >90%</span>
-                                          </div>
-                                </Progress><br/>
-                                <Progress multi>
-                                        <Progress bar value="30">SQL</Progress>
-                                        <div class="progress-bar">
-                                           <span class="progress-value blue" >75%</span>
-                                                </div>
-                                      </Progress><br/>
-
-                                      <Progress multi>
-                                              <Progress bar value="30">REACT</Progress>
-                                              <div class="progress-bar">
-                                                 <span class="progress-value lgreen" >70%</span>
-                                                      </div>
-                                            </Progress><br/>
-                                            <Progress multi>
-                                                    <Progress bar value="30">DJANGO</Progress>
-                                                    <div class="progress-bar">
-                                                       <span class="progress-value dgreen" >70%</span>
-                                                            </div>
-                                                  </Progress><br/>
-                                                  <Progress multi>
-                                                          <Progress bar value="30">FLASK</Progress>
-                                                          <div class="progress-bar">
-                                                             <span class="progress-value dred" >65%</span>
-                                                                  </div>
-                                                        </Progress><br/>
-                                                        <Progress multi>
-                                                                <Progress bar value="30">R</Progress>
-                                                                <div class="progress-bar">
-                                                                   <span class="progress-value dblue" >80%</span>
-                                                                        </div>
-                                                              </Progress><br/>
-                                                              <Progress multi>
-                                                                      <Progress bar value="30">PYTHON</Progress>
-                                                                      <div class="progress-bar">
-                                                                         <span class="progress-value yb" >85%</span>
-                                                                              </div>
-                                                                    </Progress><br/>
-                                                                    <Progress multi>
-                                                                            <Progress bar value="30">JAVA</Progress>
-                                                                            <div class="progress-bar">
-                                                                               <span class="progress-value red" >80%</span>
-                                                                                    </div>
-                                                                          </Progress><br/>
-                                                                          <Progress multi>
-                                                                                  <Progress bar value="30">MACHINE LEARNING</Progress>
-                                                                                  <div class="progress-bar">
-                                                                                     <span class="progress-value lblack" >80%</span>
-                                                                                          </div>
-                                                                                </Progress><br/>
-                                                                                <Progress multi>
-                                                                                <Progress bar value="30">DEEP LEARNING</Progress>
-                                                                                <div class="progress-bar">
-                                                                                   <span class="progress-value orange" >75%</span>
-                                                                                        </div>
-                                                                              </Progress><br/>
 
 
 
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
             </div>
           </div>
-          <footer bottom="©2020 Copyright: HIDAI BAR-MOR">
+          <footer bottom="©2020 Copyright">
           <div class="social">
-          <a
-        		href="https://www.facebook.com/hidai.barmor"
-        		className="facebook social"
-        	>
-        		<FontAwesomeIcon icon={faFacebook} size="2x" />
-        	</a>
-        					<a
-        	href="https://www.youtube.com/"
-        	className="github social"
-        	>
-        	<FontAwesomeIcon icon={faGithub} size="2x" />
-        	</a>
-        	<a href="https://twitter.com/hidai_barmor" className="twitter social">
-        	<FontAwesomeIcon icon={faTwitter} size="2x" />
-        	</a>
-        	<a
-        	href="https://www.instagram.com/"
-        	className="instagram social"
-        	>
-        	<FontAwesomeIcon icon={faInstagram} size="2x" />
-        	</a>
 </div>
 <br/>
 <span>
-  ©2020 Copyright: <span class="footername">HIDAI BAR-MOR</span>
+  ©2020 Copyright<span class="footername"></span>
   </span>
 </footer>
 

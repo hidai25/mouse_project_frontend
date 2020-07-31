@@ -29,34 +29,18 @@ class About extends Component {
          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
          <Navbar fixed="top" />
 <Fade left>
-          <h2 className="title_about" >About Me</h2>
+          <h2 className="title_about" >About</h2>
           </Fade>
           <p class="container">
-          I am a student, a researcher, a data scientist and an athlete. Currently, I am a half way through my masters in software engineering in Harvard Extension School of Harvard University.  During my studies I am completing as well a data science certificate in which I already acquired many valuable skills to analyse data and make forecasts using the most sophisticated tools in reach.
-          Alongside academic research I am available for consulting services.
+
           </p>
 
           <footer class="contact-footer">
           <div class="social">
-
-          <a href="https://www.facebook.com/hidai.barmor" className="facebook social">
-            <FontAwesomeIcon icon={faFacebook} size="2x" />
-          </a>
-          <a href="https://www.youtube.com/"  className="github social">
-          <FontAwesomeIcon icon={faGithub} size="2x" />
-          </a>
-
-          <a href="https://twitter.com/hidai_barmor" className="twitter social">
-          <FontAwesomeIcon icon={faTwitter} size="2x" />
-          </a>
-
-          <a href="https://www.instagram.com/" className="instagram social">
-          <FontAwesomeIcon icon={faInstagram} size="2x" />
-          </a>
           </div>
           <br/>
           <span class="credit">
-          <span class="Copyright">©2020 Copyright: </span> <span class="footername">HIDAI BAR-MOR</span>
+          <span class="Copyright">©2020 Copyright</span> <span class="footername"></span>
           </span>
           </footer>
          </GridWrapper>
