@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/mouse_project_frontend/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mouse_project_frontend/static/js/main.bb34f812.chunk.js",
-    "main.js.map": "/mouse_project_frontend/static/js/main.bb34f812.chunk.js.map",
+    "main.css": "/mouse_project_frontend/static/css/main.7bf51b1f.chunk.css",
+    "main.js": "/mouse_project_frontend/static/js/main.219189f4.chunk.js",
+    "main.js.map": "/mouse_project_frontend/static/js/main.219189f4.chunk.js.map",
     "runtime-main.js": "/mouse_project_frontend/static/js/runtime-main.bbd33a53.js",
     "runtime-main.js.map": "/mouse_project_frontend/static/js/runtime-main.bbd33a53.js.map",
-    "static/js/2.46bab379.chunk.js": "/mouse_project_frontend/static/js/2.46bab379.chunk.js",
-    "static/js/2.46bab379.chunk.js.map": "/mouse_project_frontend/static/js/2.46bab379.chunk.js.map",
+    "static/css/2.ffb515c7.chunk.css": "/mouse_project_frontend/static/css/2.ffb515c7.chunk.css",
+    "static/js/2.0490c2ad.chunk.js": "/mouse_project_frontend/static/js/2.0490c2ad.chunk.js",
+    "static/js/2.0490c2ad.chunk.js.map": "/mouse_project_frontend/static/js/2.0490c2ad.chunk.js.map",
     "index.html": "/mouse_project_frontend/index.html",
-    "precache-manifest.3fdcb4e94f03bcb48025265f2d62c91a.js": "/mouse_project_frontend/precache-manifest.3fdcb4e94f03bcb48025265f2d62c91a.js",
+    "precache-manifest.1a10fb36f8eb9cf734d6fbfc9347a135.js": "/mouse_project_frontend/precache-manifest.1a10fb36f8eb9cf734d6fbfc9347a135.js",
     "service-worker.js": "/mouse_project_frontend/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mouse_project_frontend/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.46bab379.chunk.js.LICENSE.txt": "/mouse_project_frontend/static/js/2.46bab379.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mouse_project_frontend/static/media/logo.5d5d9eef.svg"
+    "static/css/2.ffb515c7.chunk.css.map": "/mouse_project_frontend/static/css/2.ffb515c7.chunk.css.map",
+    "static/css/main.7bf51b1f.chunk.css.map": "/mouse_project_frontend/static/css/main.7bf51b1f.chunk.css.map",
+    "static/js/2.0490c2ad.chunk.js.LICENSE.txt": "/mouse_project_frontend/static/js/2.0490c2ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bbd33a53.js",
-    "static/js/2.46bab379.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bb34f812.chunk.js"
+    "static/css/2.ffb515c7.chunk.css",
+    "static/js/2.0490c2ad.chunk.js",
+    "static/css/main.7bf51b1f.chunk.css",
+    "static/js/main.219189f4.chunk.js"
   ]
 }
