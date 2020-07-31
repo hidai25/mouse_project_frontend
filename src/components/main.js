@@ -1,32 +1,20 @@
 import React from 'react';
 import { Switch, Route} from 'react-router-dom';
-import Contact from './Contact';
-import Projects from './Projects';
+import the_team from './the_team';
+import division from './division';
 import Home from './Home';
 import About from './About';
-import Academics_and_Skills from './Academics_and_Skills';
+import Machine_Learning from './Machine_Learning';
 
 
 const Main = () => (
   <Switch>
     <Route exact path="/" component={Home}/>
     <Route path="/about" component={About}/>
-     <Route path="/Academics_and_Skills" component={Academics_and_Skills}/>
-    <Route path="/contact" component={Contact}/>
-    <Route path="/Projects" component={Projects}/>
+     <Route path="/Machine Learning" component={Machine_Learning}/>
+    <Route path="/The team" component={the_team}/>
+    <Route path="/Division of Work" component={division}/>
   </Switch>
 )
 
 export default Main;
-
-// <BrowserRouter>
-  // <div className="App">
-    // <Switch>
-      // <Route exact path="/" component={Home}/>
-      // <Route path="/about" component={About}/>
-      //  <Route path="/Academics_and_Skills" component={Academics_and_Skills}/>
-      // <Route path="/contact" component={Contact}/>
-      // <Route path="/Projects" component={Projects}/>
-    // </Switch>
-  // </div>
-  // </BrowserRouter>

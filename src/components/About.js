@@ -29,7 +29,7 @@ class About extends Component {
          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
          <Navbar fixed="top" />
 <Fade left>
-          <h2 className="title_about" >About</h2>
+          <h2 className="title_abou" >About</h2>
           </Fade>
           <p class="container">
 

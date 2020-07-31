@@ -3,6 +3,7 @@ import Thumbnail from '../Thumbnail.js'; // Import the Thumbnail component
 import '../App.css';
 import Navbar from './Navbar';
 import styled from 'styled-components';
+import Fade from 'react-reveal/Fade';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faYoutube,
@@ -33,7 +34,9 @@ function Projects(props) {
 
 
     <Navbar fixed="top" />
-      <h1>Division of Work</h1>
+    <Fade left>
+      <h2>Division of Work</h2>
+      </Fade>
   <div class="container">
   </div>
       <footer class="contact-footer">

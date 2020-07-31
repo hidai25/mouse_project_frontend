@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Navbar from './Navbar';
 import '../styles';
 import '../App.css';
+import Fade from 'react-reveal/Fade';
 import ProgressBar from 'react-bootstrap/ProgressBar'
 import { Progress } from 'reactstrap';
 // import hidai from '../img/hidai.jpeg';
@@ -43,7 +44,10 @@ class Home extends Component {
           <br/>
 
 <div class="plate">
-  <p class="script"><span>Machine Learning</span></p></div>
+<Fade left>
+  <h2 class="script"><span>Machine Learning</span></h2>
+  </Fade>
+  </div>
 <br/>
 <br/>
 <br/>

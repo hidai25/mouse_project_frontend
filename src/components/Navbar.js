@@ -43,13 +43,13 @@ const GridWrapper = styled.div`
                  <Link className="Nav__link " to="/About">About</Link>
                </li>
                <li className="Nav__item">
-                 <Link className="Nav__link" to="/Academics_and_Skills">Machine Learning</Link>
+                 <Link className="Nav__link" to="/Machine Learning">Machine Learning</Link>
                </li>
                <li className="Nav__item">
-                 <Link className="Nav__link" to="/Projects">Division of work</Link>
+                 <Link className="Nav__link" to="/The Team">The Team</Link>
                </li>
                <li className="Nav__item">
-                 <Link className="Nav__link" to="/Contact"></Link>
+                 <Link className="Nav__link" to="/Division of Work">Division of Work</Link>
                </li>
              </ul>
            </div>
