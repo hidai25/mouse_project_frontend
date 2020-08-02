@@ -37,7 +37,7 @@
   }
 }
  */
- 
+
 .App {
   text-align: center;
 }
@@ -610,8 +610,8 @@ ProgressBar{
 }
 
 img{
-  width:250px;
-  border-radius: 60%
+  width:100px;
+  border-radius: 50%
 
 }
 

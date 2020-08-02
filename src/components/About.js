@@ -38,7 +38,6 @@ class About extends Component {
           This pipeline will allow you to transfer the information from the sensor to something that can control the position of the mouse. The motivation for this project is that you can integrate this with any device or display so instead of having to manually select options you can do so via gestures, in other words touch might be augmented or substituted by motion. It could later on be modified to work for people with disabilities or ones who have suffered an injury to their fingers or arms, and allow them to use this as a headband (or similar device) to control the mouse/cursor’s movement.
           Additionally, this would also be a better option for interaction in a VR or AR world.
 
-
           </p>
 
           <footer class="contact-footer">
