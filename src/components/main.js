@@ -5,6 +5,7 @@ import division from './division';
 import Home from './Home';
 import About from './About';
 import Machine_Learning from './Machine_Learning';
+import References from './References';
 
 
 const Main = () => (
@@ -14,6 +15,7 @@ const Main = () => (
      <Route path="/Machine Learning" component={Machine_Learning}/>
     <Route path="/The team" component={the_team}/>
     <Route path="/Division of Work" component={division}/>
+    <Route path="/References" component={References}/>
   </Switch>
 )
 

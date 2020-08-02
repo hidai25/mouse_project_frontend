@@ -35,9 +35,13 @@ function Projects(props) {
 
     <Navbar fixed="top" />
     <Fade left>
-      <h2>Future Prospects</h2>
+      <h2>References</h2>
       </Fade>
   <div class="container">
+  1. https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
+  2. http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf
+  3. https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android
+
   </div>
       <footer class="contact-footer">
       <div class="social">
