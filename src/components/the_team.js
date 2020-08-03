@@ -66,7 +66,7 @@ export default class Contact extends React.Component {
 						 >
 
 						 </Typography>
-						 {" Hidai did the the data collection ,real time python script, github management and web development of the website of the project"}
+						 {" Hidai did the the data collection ,real time python script, github management and web development of the project's website"}
 					 </React.Fragment>
 				 }
 			 />
