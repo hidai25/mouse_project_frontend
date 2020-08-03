@@ -1179,6 +1179,13 @@ color:#a0b3bd;
 }
 
 
+.topContainer{
+  /* display: flex; */
+  flex-direction: row;
+
+}
+.avatar{ vertical-align: middle; width: 100px; height: 100px; border-radius: 60%;margin-right: 12%}
+
 
 
 

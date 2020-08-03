@@ -5,13 +5,7 @@ import Navbar from './Navbar';
 import styled from 'styled-components';
 import Fade from 'react-reveal/Fade';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faYoutube,
-  faFacebook,
-  faTwitter,
-  faInstagram,
-	faGithub
-} from "@fortawesome/free-brands-svg-icons";
+import { List,ListItem,ListItemText,Divider} from '@material-ui/core'
 
 
 const GridWrapper = styled.div`
@@ -20,7 +14,7 @@ font-family: "Open Sans", sans-serif;
 
 `;
 
-function Projects(props) {
+function References(props) {
   return (
     // Render a Thumbnail component
 
@@ -38,9 +32,27 @@ function Projects(props) {
       <h2>References</h2>
       </Fade>
   <div class="container">
-  1. https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
-  2. http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf
-  3. https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android
+
+  <List component="nav"  aria-label="mailbox folders">
+    <ListItem button>
+  1.   https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
+
+    </ListItem>
+    <Divider />
+    <ListItem button divider>
+  2.  http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf
+
+      <ListItemText primary="Drafts" />
+    </ListItem>
+    <ListItem button>
+  3.   https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android
+
+      <ListItemText primary="Trash" />
+    </ListItem>
+    <Divider light />
+
+  </List>
+
 
   </div>
       <footer class="contact-footer">
@@ -55,4 +67,4 @@ function Projects(props) {
   )
 }
 
-export default Projects;
+export default References;
