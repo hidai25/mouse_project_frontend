@@ -5,6 +5,10 @@ import styled from 'styled-components';
 // import Footer from 'rc-footer';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Player } from 'video-react';
+import ReactPlayer from 'react-player'
+import dc from '../img/dcollection.MOV';
+// Render a YouTube video player
+
 
 const GridWrapper = styled.div`
 background-color: #e3f2fd;
@@ -33,12 +37,16 @@ class DataCollection extends Component {
 
           </p>
 
-          <Player
-      playsInline
-    
-      src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
-    />
+          <div
+              style={{
+                  position: 'absolute', left: '50%', top: '65%',
+                  transform: 'translate(-50%, -50%)'
+              }}
+              >
 
+
+<ReactPlayer url='https://youtu.be/8kh1hSd1tag' />
+      </div>
           <footer class="contact-footer">
           <div class="social">
           </div>

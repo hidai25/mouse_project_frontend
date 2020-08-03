@@ -1186,7 +1186,9 @@ color:#a0b3bd;
 }
 .avatar{ vertical-align: middle; width: 100px; height: 100px; border-radius: 60%;margin-right: 12%}
 
-
+ReactPlayer{
+  margin-right: auto;
+}
 
 
 /* .social-container {
