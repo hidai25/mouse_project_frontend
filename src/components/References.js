@@ -34,18 +34,20 @@ function References(props) {
   <div class="container">
 
   <List component="nav"  aria-label="mailbox folders">
-    <ListItem button>
-  1.   https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/
+    <ListItem button> 1.
+<a href= "https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data">https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/</a>
 
     </ListItem>
     <Divider />
     <ListItem button divider>
-  2.  http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf
+  2.
+  <a href= "http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf">http://stanford.edu/class/ee267/Spring2018/report_adu_bran-melendez.pdf</a>
 
-      <ListItemText primary="Drafts" />
+      <ListItemText />
     </ListItem>
     <ListItem button>
-  3.   https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android
+  3.  
+  <a href= "https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android">https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android</a>
 
       <ListItemText primary="Trash" />
     </ListItem>
