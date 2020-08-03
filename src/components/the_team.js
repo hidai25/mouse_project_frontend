@@ -27,7 +27,8 @@ import {  MDBRow, MDBCol, MDBCard,  MDBCardBody, MDBIcon } from "mdbreact";
 
 
 const GridWrapper = styled.div`
-
+background-color: #e3f2fd;
+font-family: "Open Sans", sans-serif;
 `;
 
 export default class Contact extends React.Component {
