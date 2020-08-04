@@ -41,7 +41,7 @@ class Home extends Component {
           <div class="row">
             <div class="col-sm-6">
 
-              <div class="skillstxt"></div>
+              <div class="skllstxt"></div>
             </div>
             <div class="col-sm-6">
 
