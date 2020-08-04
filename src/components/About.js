@@ -28,9 +28,11 @@ class About extends Component {
          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
          <Navbar fixed="top" />
-<Fade left>
-          <h2 className="title_abou" >About</h2>
+
+          <Fade left>
+          <h2 className="title_about" >About</h2>
           </Fade>
+
           <p class="container">
           The inspiration for this project was the movie “Minority Report”, specifically the scene where Tom Cruise is using hand gestures to control the display.
           Based on the output from tutorial 1 we know the sensor can tell XYZ dimensions/directions, which means that technically we can capture most of the movements of the mouse.

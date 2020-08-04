@@ -29,7 +29,7 @@ function References(props) {
 
     <Navbar fixed="top" />
     <Fade left>
-      <h2>References</h2>
+      <h2 className="title_about">References</h2>
       </Fade>
   <div class="container">
 
@@ -46,7 +46,7 @@ function References(props) {
       <ListItemText />
     </ListItem>
     <ListItem button>
-  3.  
+  3.
   <a href= "https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android">https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android</a>
 
       <ListItemText primary="Trash" />

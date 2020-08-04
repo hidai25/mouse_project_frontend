@@ -47,7 +47,7 @@ export default class Contact extends React.Component {
 			   <Navbar fixed="top" />
 
          <Fade left>
-           <h2>Our amazing team</h2>
+           <h1 className="title_about"> Our amazing team</h1>
            </Fade>
 
 					<div class="topContainer">

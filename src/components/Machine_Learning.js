@@ -33,7 +33,7 @@ class Home extends Component {
 
 <div class="plate">
 <Fade left>
-  <h2 class="script"><span>Machine Learning</span></h2>
+  <h2 className="title_about">Machine Learning</h2>
   </Fade>
   </div>
 

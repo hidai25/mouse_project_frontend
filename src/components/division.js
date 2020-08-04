@@ -35,9 +35,12 @@ function Projects(props) {
 
     <Navbar fixed="top" />
     <Fade left>
-      <h2>Future Prospects</h2>
+      <h2 className="title_about">Future Prospects</h2>
       </Fade>
   <div class="container">
+  As part of the future work, we would explore methodologies to reduce the time lag between the sensor and mouse movement, as well as refining and expanding the number of recognized gestures.
+With further development, this technology could be useful for people with disabilities. For example, a paralyzed person could rotate his head to control the direction of his wheelchair. A hat containing a sensor or even glasses with an embedded sensor could be used to control the wheelchair. The chair can be programmed to register the voice commands of the user as starting and stopping the motor and while in action, the user can tilt his head the direction he wants to go. The chair could register this swiping motion and redirect the user in the direction he wants to go. The sensor integration could be taken even one step further with nanochips in the future by embedding the actual sensor inside the eye so that no external sensor is needed to control the chair. Just the eye movements of the user would suffice to control the cart if used this way.
+
   </div>
       <footer class="contact-footer">
       <div class="social">
