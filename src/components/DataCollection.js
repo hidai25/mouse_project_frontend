@@ -32,7 +32,10 @@ class DataCollection extends Component {
           </Fade>
           <p class="container">
 
-          To collect the data, we first had to investigate the “PYAUTOGUI” package to determine the movements and get an idea of how we could compile the code. After some investigation, we decided to use 6 motions, each mapped to a certain movement of the mouse or a click. The movements we chose to collect data on include right swipe, left swipe, upward swipe, downward swipe, spiral, and wave. The swiping movements are used to control the mouse and which direction it will go as we move the sensor, and the spiral and wave gestures are used to imitate the right and left clicks of the mouse. After agreeing on the types of motions, we proceeded with the data collection.
+          To collect the data, we first had to investigate the “PYAUTOGUI” package to determine the movements and get an idea of how we could compile the code. After some investigation, we decided to use 6 motions, each mapped to a certain movement of the mouse or a click. The movements we chose to collect data on include right swipe, left swipe, upward swipe, downward swipe, spiral, and wave.
+<br/>
+          The swiping movements are used to control the mouse and which direction it will go as we move the sensor, and the spiral and wave gestures are used to imitate the right and left clicks of the mouse. After agreeing on the types of motions, we proceeded with the data collection.
+<br/>
           For each movement, we decided it would be best to use 75% of the data for training and 25% of the data for testing. To do that, we decided to collect data 30 times for each of the gestures, totaling 180 collections. To add variety to our gestures, we decided to use different speeds for the movements: fast, medium, and slow. These little differences were used to create a real-world-model to accommodate for different users and different speeds. After collecting each data, we labeled them according to their speeds and their types. Finally, we uploaded them to our GitHub repository to proceed with data processing.
 
           </p>

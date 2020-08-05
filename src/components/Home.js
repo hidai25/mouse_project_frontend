@@ -41,9 +41,9 @@ const slideOutLeft = keyframes`
 `;
 
 const Page = styled.div`
-position: relative;
+position: fixed;
 width: 100vw;
-height: 100vh;
+/* height: 15vh; */
 background-color: #283040;
 font-family: "Open Sans", sans-serif;
 font-align:center;
@@ -99,6 +99,8 @@ class Home extends Component {
         </div>
           </Link>
       </div>
+
+    
 
 
 
