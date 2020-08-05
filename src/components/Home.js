@@ -6,6 +6,7 @@ import '../App.css';
 import { Link } from 'react-router-dom';
 import { keyframes } from "styled-components"
 import Typist from 'react-typist';
+import Navbar from './Navbar';
 // import code from '../img/code.jpg';
 
 
@@ -68,6 +69,8 @@ class Home extends Component {
       // <div className="home">
         <div className="home" >
       <Page>
+
+      <Navbar fixed="top" />
       <HomePageElm>
 
       <Typist className="MyTypist">

@@ -47,9 +47,9 @@ class Home extends Component {
 
 
             <div class="skills">
-            <h3> Overview</h3>
+            <h2> Overview</h2>
             The project is focused on replicating the movements of a traditional mouse using a STM32 sensortile and a python package called PYAUTOGUI. The idea is that you can integrate a sensortile flashed with the appropriate embedded alogorithm and ML into any wearable device or display which instead of requiring the user to manually select options allows, enables control via gestures. Our POC can be extended further to enable people with permanent disabilities or those who have suffered an injury to their fingers or arms, to use this as a fingreband (or headband or a similar device) to control the mouse/cursor movement. Additionally, this can also be implemented for gesture driven interactions in a VR or AR world.
-
+<br/>
           <h3>  Data Description</h3>
             The dataset used for building the classification models was collected by creating and opening a data port mapping to the STM32 Sensortile hardware as we moved the sensor by hand. We have capture data fom the sensor's Accelaratometer, Magnetometer and Gyroscope6 along the X,Y and Z axis for 6 different hand gestures for the mouse:Up, Down,Left,Right,Spiral and Wave. We collected data for 15 sets for each movetype type in multiple csv files that were merged to create a single csv file. This file was then split into a training dataset csv file and a test dataset csv file.
 
