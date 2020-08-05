@@ -49,7 +49,7 @@ function References(props) {
   3.
   <a href= "https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android">https://lembergsolutions.com/blog/motion-gesture-detection-using-tensorflow-android</a>
 
-      <ListItemText primary="Trash" />
+      <ListItemText />
     </ListItem>
     <Divider light />
 
