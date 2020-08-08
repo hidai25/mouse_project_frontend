@@ -49,6 +49,9 @@ const GridWrapper = styled.div`
                  <Link className="Nav__link" to="/Machine Learning">Machine Learning</Link>
                </li>
                <li className="Nav__item">
+                 <Link className="Nav__link" to="/Final Product">Final Product</Link>
+               </li>
+               <li className="Nav__item">
                  <Link className="Nav__link" to="/The Team">The Team</Link>
                </li>
                <li className="Nav__item">

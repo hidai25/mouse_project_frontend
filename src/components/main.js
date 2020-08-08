@@ -7,6 +7,7 @@ import About from './About';
 import DataCollection from './DataCollection';
 import Machine_Learning from './Machine_Learning';
 import References from './References';
+import final_product from './final_product';
 
 
 const Main = () => (
@@ -15,6 +16,7 @@ const Main = () => (
     <Route path="/about" component={About}/>
     <Route path="/DataCollection" component={DataCollection}/>
      <Route path="/Machine Learning" component={Machine_Learning}/>
+     <Route path="/Final Product" component={final_product}/>
     <Route path="/The team" component={the_team}/>
     <Route path="/Division of Work" component={division}/>
     <Route path="/References" component={References}/>
