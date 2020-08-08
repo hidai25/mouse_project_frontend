@@ -51,9 +51,9 @@ We expect this type of technology could be of great interest and benefit for con
 
           <div
               style={{
-                  position: 'absolute', left: '50%', top: '67%',
+                  position: 'absolute', left: '50%', top: '65%',
                   transform: 'translate(-50%, -50%)',
-                  
+
               }}
               >
 
