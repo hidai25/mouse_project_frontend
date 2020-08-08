@@ -53,7 +53,7 @@ We expect this type of technology could be of great interest and benefit for con
               style={{
                   position: 'absolute', left: '50%', top: '67%',
                   transform: 'translate(-50%, -50%)',
-                  height: 348
+                  
               }}
               >
 
