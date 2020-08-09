@@ -45,7 +45,7 @@ We then created a real time system incorporating C and Python in order to proces
 <br/>
 Therefore this project demonstrated and serves as a proof of concept on the feasibility of controlling the computer mouse through wearable sensors.
 <br/>
-We expect this type of technology could be of great interest and benefit for controlling computers remotely without the use of traditional input devices like keyboard and mouse as it’s usually the case in AR and VR environments.
+We expect this type of technology could be of great interest and benefit for controlling computers remotely without the use of traditional input devices like keyboard and mouse as it’s usually the case in AR and VR environments. The project's demo:
 
           </p>
 
