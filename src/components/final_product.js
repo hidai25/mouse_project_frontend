@@ -58,7 +58,7 @@ We expect this type of technology could be of great interest and benefit for con
               >
 
 
-<ReactPlayer url='https://youtu.be/8kh1hSd1tag' />
+<ReactPlayer url='https://www.youtube.com/watch?v=G43_SA3sqqU' />
       </div>
           <footer class="contact-footer">
           <div class="social">
